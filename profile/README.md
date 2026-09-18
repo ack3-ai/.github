@@ -9,7 +9,7 @@
 Some of our work:
 
 * [Wake](https://github.com/Ackee-Blockchain/wake) &mdash; development, testing and fuzzing framework for Solidity, with static-analysis detectors and call-graph tooling
-* [Team's audit reports](https://github.com/Ackee-Blockchain/public-audit-reports) &mdash; the team's previous published audit reports
+* [Ackee Blockchain public audit reports](https://github.com/Ackee-Blockchain/public-audit-reports) &mdash; audits our team delivered at Ackee Blockchain
 * [ack3 audit reports](https://github.com/ack3-ai/public-audit-reports) &mdash; ack3 published audit reports
 * [@ack3ai](https://x.com/ack3ai) &mdash; findings and field notes on X
 
